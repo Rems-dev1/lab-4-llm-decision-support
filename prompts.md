@@ -19,3 +19,4 @@ Based on the applicant's letter and the extracted data, produce a brief with EXA
 2. Risks / red flags (bullet points)
 3. Missing information to request
 4. Suggested next step"""
+   
